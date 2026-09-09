@@ -1,4 +1,4 @@
-## DIVY
+# DIVY 👋
 
 Edison High School Class of 2028
 Aspiring Mechanical Engineer and Physicist in New Jersey. Learning Python, Data Science with Python, and Physics simulations with Python.
@@ -22,4 +22,4 @@ Aspiring Mechanical Engineer and Physicist in New Jersey. Learning Python, Data 
 
 ### CONNECT WITH ME
 
-* *LinkedIn:* [linkedin.com/in/divyansh-kumar-3a1b8a418]
+* *LinkedIn:* (linkedin.com/in/divyansh-kumar-3a1b8a418)
