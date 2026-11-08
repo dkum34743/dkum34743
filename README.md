@@ -16,6 +16,7 @@
 ### TECHNICAL LEARNING STACK
 * **Languages:** Python 3
 * **Tools & Environments:** VS Code, Git, GitHub Codespaces
+* **Founder of Vectorial Collective
 
 ---
 
